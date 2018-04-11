@@ -48,8 +48,8 @@ for i in range(10):
 """
 from sklearn.model_selection import train_test_split
 X, valData, y, valLabels = train_test_split(X, y, test_size=0.25, random_state=42)
-valData=img
-valLabels=labels
+#valData=img
+#valLabels=labels
 y = np_utils.to_categorical(y)
 valLabels = np_utils.to_categorical(valLabels)
 num_classes = valLabels.shape[1]
