@@ -31,6 +31,8 @@ from keras.layers import Dense, Conv2D, MaxPooling2D, Dropout, Flatten
 from keras.utils import np_utils
 
 """
+yo bhatia this ones for you remove this line and see the git diff 
+
 path = "train"
 folder_names = [name for name in os.listdir(path) if os.path.isdir(os.path.join(path, name))]
 print(folder_names)
