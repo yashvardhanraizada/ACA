@@ -31,7 +31,7 @@ from keras.layers import Dense, Conv2D, MaxPooling2D, Dropout, Flatten
 from keras.utils import np_utils
 
 """
-yo bhatia this ones for you remove this line and see the git diff 
+yo bhatia and naman this ones for you remove this line and see the git diff 
 blahhh blaaah blaaah
 qwertyu
 
