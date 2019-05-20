@@ -34,6 +34,7 @@ from keras.utils import np_utils
 yo bhatia and naman this ones for you remove this line and see the git diff 
 blahhh blaaah blaaah
 qwertyu
+is this real life??
 
 path = "train"
 folder_names = [name for name in os.listdir(path) if os.path.isdir(os.path.join(path, name))]
