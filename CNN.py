@@ -1,13 +1,12 @@
 hahahahahaha
+ab kar diya kamal
 
 
 path = "train1"
 folder_names = [name for name in os.listdir(path) if os.path.isdir(os.path.join(path, name))]
 #print(folder_names)
 
-# Each row is an image
-img = np.zeros([94257, 45,45], dtype = float)
-labels = np.zeros([94257])
+UDA DIYA DATA HAHAHAHAHAHAHAHA??????
 
 j = 0
 for i in range(10):
