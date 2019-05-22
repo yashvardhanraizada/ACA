@@ -1,8 +1,4 @@
-import sys
-import os
-import numpy as np
-from PIL import Image
-from operator import itemgetter
+hahahahahaha
 
 
 path = "train1"
